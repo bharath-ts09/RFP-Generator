@@ -1,0 +1,8 @@
+boto3
+awscli
+unstructured
+langchain
+streamlit
+langchain_chroma
+langchain_community
+
